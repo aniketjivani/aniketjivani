@@ -6,5 +6,5 @@ Working on uncertainty quantification for computationally expensive simulation m
 - Conformal Prediction
 - Neural ODEs
 - Parametrized NNs
-- Scoring functions
+- Scoring functions and calibration
 
