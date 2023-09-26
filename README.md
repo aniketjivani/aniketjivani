@@ -7,4 +7,5 @@ Working on uncertainty quantification for computationally expensive simulation m
 - Neural ODEs
 - Parametrized NNs
 - Scoring functions and calibration
+- Applying UQ and DA to Space Weather
 
