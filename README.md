@@ -4,8 +4,7 @@ Working on uncertainty quantification for computationally expensive simulation m
 
 - Active learning
 - Conformal Prediction
-- Neural ODEs and friends
+- Neural ODEs and related methods
 - Parametrized NNs
 - Scoring functions and calibration
 - Applying UQ and DA to Space Weather
-
