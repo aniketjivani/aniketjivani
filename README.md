@@ -6,5 +6,4 @@ Working on uncertainty quantification for computationally expensive simulation m
 - Conformal Prediction
 - Neural ODEs and related methods
 - Parametrized NNs
-- Scoring functions and calibration
-- Applying UQ and DA to Space Weather
+- Applying methods from UQ to Space Weather
