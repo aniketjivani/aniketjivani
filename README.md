@@ -1,8 +1,8 @@
-Student at University of Michigan
+Graduate Student at University of Michigan!
 
-Working on uncertainty quantification for computationally expensive simulation models. Currently exploring:
+I work on topics in uncertainty quantification for computationally expensive simulation models. Currently exploring:
 
 - Active learning
 - Neural ODEs and related methods
-- BI for Surrogate Model Training
-- Applying methods from UQ to Space Weather
+- Bayesian Inference for Surrogate Model Training
+- Application of UQ Methods to Space Weather data.
