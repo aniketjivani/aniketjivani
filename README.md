@@ -1,6 +1,6 @@
 Graduate Student at University of Michigan!
 
-I work on topics in uncertainty quantification for computationally expensive simulation models. Currently exploring:
+I work on topics in uncertainty quantification with a particular interest in surrogate models and their role in methods for experimental design. Currently exploring:
 
 - Active learning
 - Neural ODEs and related methods
