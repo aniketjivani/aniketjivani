@@ -1,8 +1,8 @@
 Graduate Student at University of Michigan Mechanical Engineering
 
-I work on topics in uncertainty quantification with a particular interest in the use of surrogate models for different aspects of UQ, including experimental design. Currently exploring:
+I work on topics in uncertainty quantification with a particular interest in building surrogate models from the perspective of experimental design. Currently exploring:
 
 - Active learning
 - Neural ODEs and related methods
-- Bayesian Inference for Surrogate Model Training
+- Bayesian OED for Surrogate Model Training
 - Application of UQ Methods to Space Weather data.
