@@ -1,9 +1,10 @@
-Graduate Student at University of Michigan Mechanical Engineering
+Recently earned my Ph.D from University of Michigan in Mechanical Engineering and Scientific Computing :-) - Go Blue!
 
-I work on topics in uncertainty quantification with a particular interest in building surrogate models from the perspective of experimental design and active learning. I am also generally interested in building these models for the small / multi-event data setting. Currently exploring:
+I work on topics in uncertainty quantification with a particular interest in building surrogate models in the small / multi-event data setting. This is a common motif of scientific and engineering applications where computational budgets for running high-fidelity models are limited. Currently exploring:
 
 - Active learning
-- Neural ODEs and related methods
+- Neural ODEs and related methods for dynamical systems
 - Bayesian OED for Surrogate Model Training
 - Application of UQ Methods to Space Weather data.
 - (collaboration) Adaptive Covariance Estimation Techniques
+- Perfect information games
